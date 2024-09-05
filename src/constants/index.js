@@ -43,7 +43,7 @@ import {
 export const navigation = [
   {
     id: "0",
-    title: "Features",
+    title: "Services",
     url: "#features",
   },
   {
@@ -214,7 +214,7 @@ export const pricing = [
     id: "0",
     title: "Growth Package",
     description: "Tailored for small businesses",
-    price: "1,900",
+    price: "699",
     features: [
       "Facebook management",
       "Instagram management",
@@ -227,7 +227,7 @@ export const pricing = [
     id: "1",
     title: "Pro Package",
     description: "Tailored for small-medium sized businesses",
-    price: "3,200",
+    price: "1,499",
     features: [
       "Facebook & Instagram Management",
       "Linkedin Or TikTok Management",
