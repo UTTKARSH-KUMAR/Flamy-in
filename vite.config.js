@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   base: '/Flamy-in/',
-  plugins: [react()]
-})
+  plugins: [react()],
+});
